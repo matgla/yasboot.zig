@@ -1,0 +1,13 @@
+.{
+    .name = .yasboot,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.17.0-dev.1640+2597da025",
+    .fingerprint = 0xfeef7dbe77d1cfb3,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+    },
+}
