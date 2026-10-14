@@ -1,7 +1,7 @@
 .{
     .name = .yasboot,
     .version = "0.0.1",
-    .minimum_zig_version = "0.17.0-dev.1640+2597da025",
+    .minimum_zig_version = "0.18.0-dev.253+16d31ceed",
     .fingerprint = 0xfeef7dbe77d1cfb3,
     .dependencies = .{},
     .paths = .{
